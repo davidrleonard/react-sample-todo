@@ -1,0 +1,21 @@
+body {
+  margin: 1rem;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.new-todo > form > input[type="text"] {
+  margin-right: 0.5rem;
+}
+
+.todo {
+  display: flex;
+  width: 500px;
+  background-color: lightgray;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.todo > input {
+  margin-right: 0.5rem;
+}
